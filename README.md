@@ -1,20 +1,11 @@
-HEAD
-# sensormobileapplication_main
 
-A new Flutter project.
+# sensormobile application
 
-## Getting Started
+This is a sensor application with a theme color of yellow and black. The application includes various sensor functionalities such as geofencing, light sensing, proximity sensing, step counting, and a compass.
 
-This project is a starting point for a Flutter application.
+# Main Page
+The main page of the application allows navigation to different sensor functionalities.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # sensors1
 ad30e687e587e9c2299265600251b8eb6642d4ae
